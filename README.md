@@ -1,4 +1,5 @@
 # uts-webprog1-4d
+
 langkah - langkahnya:
 
 1. buat repository di gitub.com
@@ -15,3 +16,7 @@ langkah - langkahnya:
 6.install composer di getcomposer.org
 7.buat file composer.json
 8. ketik perintah php composer.phar install
+
+ini adalah aplikasi data mahasiswa yang terdiri dari nim, nama dan jurusan .
+dan terdapat botton tambah, simpan , edit dan hapus.
+
