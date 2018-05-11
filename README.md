@@ -16,6 +16,7 @@ langkah - langkahnya:
 6.install composer di getcomposer.org
 7.buat file composer.json
 8. ketik perintah php composer.phar install
+9.buat file phpunit.xml
 
 ini adalah aplikasi data mahasiswa yang terdiri dari nim, nama dan jurusan .
 dan terdapat botton tambah, simpan , edit dan hapus.

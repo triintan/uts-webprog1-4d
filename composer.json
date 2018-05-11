@@ -1,0 +1,12 @@
+{
+    "name": "triintan/uts-webprog1",
+    "authors": [
+        {
+            "name": "triintan",
+            "email": "triintan33@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "6.5"
+    }
+}
